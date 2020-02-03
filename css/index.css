@@ -1,0 +1,28 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	padding: 20px;
+}
+.logo{
+	height: 20%;
+	width: 20%;
+}
+header{
+	
+}
+ul{
+	display: inline;
+	float: right;
+}
+li{
+	display: inline;
+	color: #333333;
+	margin: auto 10px;
+}
+.navCreateButton{
+	background-color: #db8c0a;
+	color: white;
+	border: none;
+}
